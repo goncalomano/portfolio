@@ -441,14 +441,6 @@ and (min-width : 1224px) {
         -moz-box-shadow:    0px 0px 1vw 0px rgba(50, 50, 50, 0.7);
         box-shadow:         0px 0px 1vw 0px rgba(50, 50, 50, 0.7);
     }
-    .slide-element{
-        min-height: 15vw;
-        background-color: blue;
-        max-width: 30vh;
-        margin-left:auto;
-        margin-right:auto;
-        border-radius: 2vw;
-    }
 }
 
 /* Large screens ----------- */
